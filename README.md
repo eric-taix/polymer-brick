@@ -50,5 +50,9 @@ Et voilà!
 
 
 Like it?
--------
+-------  
+
+You can test the online [demonstration](http://eric-taix.github.io/polymer-brick/)  
+It has been tested with Chrome, Safari and Firefox (it still has style issues with Firefox)
+  
 I created this component for fun. If you like it, just say hello to @etaix.

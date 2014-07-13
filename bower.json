@@ -1,0 +1,21 @@
+{
+  "name": "bricks",
+  "version": "0.0.0",
+  "authors": [
+    "Eric Taix <eric.taix@gmail.com>"
+  ],
+  "description": "Brick webcomponent like www.slate.fr",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.4"
+  }
+}
